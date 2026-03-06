@@ -35,3 +35,6 @@ Python
 Pandas
 
 Juypter Notebook
+
+Author
+Kishan Aspiring Data Scientist | Python & Machine Learning Enthusiast
